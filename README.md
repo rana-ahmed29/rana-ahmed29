@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding animation" />
+  <img src="./girl-coding.gif" width="300" alt="Girl coding" />
 </p>
 <h1 align="center">Hey there! 👋 I'm Rana Ahmed</h1>
 
