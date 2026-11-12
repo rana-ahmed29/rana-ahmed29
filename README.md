@@ -1,5 +1,19 @@
 
-# 👋 Hey there!
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="Waving hand animation" />
+</p>
+
+<h1 align="center">Hey there! 👋 I'm Rana Ahmed</h1>
+
+<h3 align="center">
+  Front-End Developer | React.js & Next.js
+</h3>
+
+<p align="center">
+  🇪🇬 Based in Egypt
+</p>
+
+
 
 ## 👩‍💻 About Me
 
