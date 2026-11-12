@@ -9,9 +9,7 @@
   Front-End Developer | React.js & Next.js
 </h3>
 
-<p align="center">
-  🇪🇬 Based in Egypt
-</p>
+
 
 
 
